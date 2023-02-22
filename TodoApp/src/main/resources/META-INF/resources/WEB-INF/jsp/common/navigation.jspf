@@ -1,0 +1,11 @@
+<div class="header">
+		<nav>
+			<ul>
+				<li><a href="welcome">Home</a></li>
+				<li><a href="list-todos">My TODOs</a></li>
+				<li><a href="add-todo">Add TODOs</a></li>
+				<li><a href="contact">Contact</a></li>
+			</ul>
+		</nav>
+		<button class="btn" id="btn2" onclick="logoutFunc()">Log Out</button>
+	</div>
